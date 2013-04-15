@@ -1,0 +1,5 @@
+[25-Mar-2013 08:52:41 UTC] PHP Parse error:  syntax error, unexpected T_VAR in D:\01-DevTools\06-wamp\www\zc_vaf\includes\modules\shipping\freeshipper.php on line 26
+[25-Mar-2013 08:52:41 UTC] PHP Stack trace:
+[25-Mar-2013 08:52:41 UTC] PHP   1. {main}() D:\01-DevTools\06-wamp\www\zc_vaf\index.php:0
+[25-Mar-2013 08:52:41 UTC] PHP   2. require() D:\01-DevTools\06-wamp\www\zc_vaf\index.php:36
+[25-Mar-2013 08:52:41 UTC] PHP   3. shipping->shipping() D:\01-DevTools\06-wamp\www\zc_vaf\includes\modules\pages\checkout_shipping\header_php.php:98

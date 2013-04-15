@@ -1,0 +1,12 @@
+[25-Mar-2013 03:43:19 UTC] PHP Warning:  move_uploaded_file(D:/01-DevTools/06-wamp/www/zc_vaf/images/大白菜.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: Invalid argument in D:\01-DevTools\06-wamp\www\zc_vaf\admin123\includes\classes\upload.php on line 101
+[25-Mar-2013 03:43:19 UTC] PHP Stack trace:
+[25-Mar-2013 03:43:19 UTC] PHP   1. {main}() D:\01-DevTools\06-wamp\www\zc_vaf\admin123\product.php:0
+[25-Mar-2013 03:43:19 UTC] PHP   2. require() D:\01-DevTools\06-wamp\www\zc_vaf\admin123\product.php:87
+[25-Mar-2013 03:43:19 UTC] PHP   3. upload->save() D:\01-DevTools\06-wamp\www\zc_vaf\admin123\includes\modules\new_product_preview.php:16
+[25-Mar-2013 03:43:20 UTC] PHP   4. move_uploaded_file() D:\01-DevTools\06-wamp\www\zc_vaf\admin123\includes\classes\upload.php:101
+[25-Mar-2013 03:43:20 UTC] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move 'D:\01-DevTools\06-wamp\tmp\phpE339.tmp' to 'D:/01-DevTools/06-wamp/www/zc_vaf/images/大白菜.jpg' in D:\01-DevTools\06-wamp\www\zc_vaf\admin123\includes\classes\upload.php on line 101
+[25-Mar-2013 03:43:20 UTC] PHP Stack trace:
+[25-Mar-2013 03:43:20 UTC] PHP   1. {main}() D:\01-DevTools\06-wamp\www\zc_vaf\admin123\product.php:0
+[25-Mar-2013 03:43:20 UTC] PHP   2. require() D:\01-DevTools\06-wamp\www\zc_vaf\admin123\product.php:87
+[25-Mar-2013 03:43:20 UTC] PHP   3. upload->save() D:\01-DevTools\06-wamp\www\zc_vaf\admin123\includes\modules\new_product_preview.php:16
+[25-Mar-2013 03:43:20 UTC] PHP   4. move_uploaded_file() D:\01-DevTools\06-wamp\www\zc_vaf\admin123\includes\classes\upload.php:101

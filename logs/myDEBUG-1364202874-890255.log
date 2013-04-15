@@ -1,0 +1,6 @@
+[25-Mar-2013 09:14:34 UTC] PHP Parse error:  syntax error, unexpected ';' in D:\01-DevTools\06-wamp\www\zc_vaf\includes\functions\functions_general.php on line 1145
+[25-Mar-2013 09:14:34 UTC] PHP Stack trace:
+[25-Mar-2013 09:14:34 UTC] PHP   1. {main}() D:\01-DevTools\06-wamp\www\zc_vaf\index.php:0
+[25-Mar-2013 09:14:35 UTC] PHP   2. require() D:\01-DevTools\06-wamp\www\zc_vaf\index.php:26
+[25-Mar-2013 09:14:35 UTC] PHP   3. require() D:\01-DevTools\06-wamp\www\zc_vaf\includes\application_top.php:149
+[25-Mar-2013 09:14:35 UTC] PHP   4. require() D:\01-DevTools\06-wamp\www\zc_vaf\includes\autoload_func.php:48
